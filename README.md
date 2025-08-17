@@ -19,6 +19,7 @@ My interactive online courses provide a supportive environment where you can:
 - JavaScript
 - PHP
 - Python
-- Building a Content Management System online
+- Pandas
+- Vibe Coding
   
 **Start your coding journey today and unlock a future-proof career!**
