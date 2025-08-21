@@ -5,7 +5,7 @@ The rise of Artificial Intelligence (AI) is significantly impacting web developm
 **Here's the key:** understanding code is essential for all programmers who want a future in this space. After all, AI can only write what you instruct it to.
 *The need to understand how to code has never been greater.*
 
-## Learn from an Expert in a Supportive Online Environment
+## Learn from an Expert in a Supportive Online Environment.
 
 My interactive online courses provide a supportive environment where you can:
 
