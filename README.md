@@ -1,6 +1,6 @@
-# Master the Future of Web Development: Learn to Code!
+# The Future of Software & Web Development
 
-The rise of Artificial Intelligence (AI) is significantly impacting web development, changing the skillset needed to stay ahead.
+The rise of Artificial Intelligence (AI) is significantly impacting software & web development, changing the skillset needed to stay ahead.
 
 **Here are two essential keys:** 
 
